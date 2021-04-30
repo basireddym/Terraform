@@ -66,5 +66,22 @@ https://medium.com/swlh/terraform-iterating-through-a-map-of-lists-to-define-aws
 
 https://medium.com/swlh/azure-devops-yml-terraform-pipeline-and-pre-merge-pull-request-validation-6352b841376a
 
+https://medium.com/swlh/how-companies-manages-the-same-code-of-terraform-to-switch-from-testing-to-production-6787e7b6fde9
+
+https://medium.com/swlh/terraform-imports-resources-modules-for-each-and-count-bab7660c8ecd
+
+https://medium.com/swlh/advanced-aws-serverless-provisioning-terraform-serverless-framework-79f57e71a177
+
+https://medium.com/swlh/deploy-infrastructure-to-azure-using-terraform-b55cbab13929
+
+https://medium.com/swlh/migrating-infrastructure-between-terraform-remotes-7c8e979995a4
+
+https://medium.com/swlh/setup-a-static-website-cdn-with-terraform-on-gcp-23c6937382c6
+
+https://medium.com/swlh/using-terraform-to-create-an-ec2-intance-with-cloudwatch-alarm-metrics-5ea61509b8c8
+
+https://medium.com/swlh/serverless-super-simple-api-development-with-go-terraform-and-aws-lambda-cc2dd6c531cb
+
+https://medium.com/swlh/deploy-aws-lambda-and-dynamodb-using-terraform-6e04f62a3165
 
 
