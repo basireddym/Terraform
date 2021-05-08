@@ -2,6 +2,7 @@
 When a Terraform file is executed (apply) via jenkins (pipeline) job, the state file is generated in Jenkins workspace.
 /var/lib/jenkins/workspace/terraform-Jenkins-pipelin
 
+https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1
 
 Links:
 https://medium.com/@pb8226/running-terraform-with-jenkins-pipelines-f29a8cb861d4
